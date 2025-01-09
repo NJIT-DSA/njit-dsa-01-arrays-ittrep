@@ -8,7 +8,7 @@
   <version>1.0-SNAPSHOT</version>
 
   <name>01-arrays</name>
-  <url>https://opas.peppi.oulu.fi/fi/opintojakso/811312A/4550?period=2020-2021</url>
+  <!--<url>https://opas.peppi.oulu.fi/fi/opintojakso/811312A/4550?period=2020-2021</url>-->
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
